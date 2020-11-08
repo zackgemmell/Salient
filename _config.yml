@@ -1,0 +1,19 @@
+# Site settings
+title: Salient
+email: zack.gemmell@gmail.com
+description: "Product designer living in San Diego."
+url: "http://zgemmell.com/"
+github:  https://github.com/zackgemmell
+linkedin: https://www.linkedin.com/in/zackgemmell/
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+plugins:
+
+
+include: ['_pages']
